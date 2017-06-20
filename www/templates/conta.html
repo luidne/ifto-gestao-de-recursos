@@ -1,0 +1,23 @@
+<ion-view view-title="Criar Conta">
+  <ion-content>
+   <div class="list" id="criar">
+    <div class="conta" id="pass">
+      <div class="-screen">
+        <div class="app-title">
+          <h1 style="color:#3881F5;">Criar Conta</h1>
+          <div class="login-form">
+            <label class="item item-input">
+              <input type="text" id="cadastraruser" ng-model="cadastrar.user" placeholder="usuário">
+            </label>
+            <label class="item item-input">
+              <input type="password" id="cadastrarsenha" ng-model="cadastrar.senha" placeholder="senha">
+            </label>
+            <br>
+            <a class="button light round Light Round button-positive" href="#/log/login">Cancelar</a>
+            <a class="button light round Light Round button-positive" ng-click="Cadastrar()"ng-disabled="!cadastrar.user || !cadastrar.senha">Enviar</a>
+          </div>  
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>

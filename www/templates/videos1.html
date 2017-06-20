@@ -1,0 +1,14 @@
+<ion-view view-title="Videos para Estudo">
+        <ion-content>
+                <div class="listavideos">
+                        <center><h3 class="centralizab">Lista de videos das aulas da minha MELHOR TURMA de 1o ano de TODOS OS TEMPOS:</h3></center><br>
+                        <div ng-repeat="tudo in dados">
+                                <div ng-repeat="site in tudo.sites">
+					<iframe width="360" height="215" src="{{site.iframe}}" frameborder="0" allowfullscreen></iframe>
+                                        <p><center><h4>{{site.name}}</h4></center></p>
+                                </div>
+                        </div>
+                </div>
+        </ion-content>
+</ion-view>
+
