@@ -43,7 +43,7 @@ angular.module('starter.controllers', [])
 })
 
 .controller('AppCtrl', function($scope, $ionicModal, $timeout, $http) {
-	var url = "http://10.101.0.22:1701/ccmAP/ccmAP.json";
+	var url = "http://10.101.0.22:1701/json/lista_menu.json";
 	$http.get(url).success(function(data) {
 		$scope.dados = data;
 	});
