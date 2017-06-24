@@ -33,7 +33,8 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         		'menuContent': {
           			templateUrl: 'templates/home.html',
         		}
-      		}
+      		},
+          params: {'id':'asdasd'}
     	})
 
     	.state('app.videos', {

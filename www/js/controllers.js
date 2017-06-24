@@ -17,7 +17,7 @@ angular.module('starter.controllers', [])
 
 .controller('LogaConta', function($scope, $http, $state) {
 	$scope.Login = function(){
-    $state.go("app.home");
+    $state.go("app.home", {'id': "teste kkkkk"});
 		/*$http.get('http://10.101.0.22:1701/senhas/senhas.json').success(function(data){
     		//$http.get('http://200.129.176.42:1700/senhas/senhas.json').success(function(data){
             		var usuario = document.getElementById("usuario").value;
@@ -42,11 +42,14 @@ angular.module('starter.controllers', [])
   	}
 })
 
-.controller('AppCtrl', function($scope, $ionicModal, $timeout, $http) {
-	var url = "http://10.101.0.22:1701/json/lista_menu.json";
-	$http.get(url).success(function(data) {
+/*Controlador do Menu*/
+.controller('AppCtrl', function($scope, $ionicModal, $timeout, $http, $stateParams) {
+	//var url = "http://10.101.0.22:1701/json/lista_menu.json";
+	var url = "https://bitbucket.org/luidne/ifto-gestao-de-recursos/raw/18ddea5f3b9a2c26ae6664a7449fb21840bd490a/www/lista_menu.json";
+  $http.get(url).success(function(data) {
 		$scope.dados = data;
 	});
+  console.log($stateParams);
 })
 
 .controller('PlaylistCtrl', function($scope, $stateParams) {

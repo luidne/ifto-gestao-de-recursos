@@ -24,50 +24,14 @@
     <ion-content class="custom">
       <div style="text-align: center; padding: 16px;">
         <img class="img"  src="https://www.aquivocepassa.com/images/concursos/2412/instituto-federal-do-tocantins-ifto-assistente-em-administracao.png">
+        {{teste.id}}
       </div>
-      <!-- <div  ng-repeat="fig in dados">
-        <div class="item item-image">
-          <img ng-src="{{fig.nome}}">
-          Início
-        </ion-item>
-      </div> -->
       <br>
-      <!-- <ion-item class="item item-avatar" menu-close href="#/app/videos"> -->
-      <ion-list ng-repeat="fig in dados">
-         <!-- <ion-item class="item" menu-close href="#/app/home">
-          <img src="https://image.flaticon.com/icons/svg/149/149412.svg" width="24px">
-          &nbsp;&nbsp;Início
+      <ion-list>
+        <ion-item ng-repeat="menu in dados" class="item" menu-close href="#/app/home">
+          <img ng-src="{{menu.icone}}" width="24px">
+          &nbsp;&nbsp;{{menu.nome}}
         </ion-item>
-        <br> -->
-        <ion-item class="item" menu-close href="#/app/home">
-          <img ng-src="{{fig.icone}}" width="24px">
-          &nbsp;&nbsp;{{fig.nome}}
-        </ion-item>
-        <!-- <br> -->
-        <!-- <ion-item class="item" menu-close href="#/app/home">
-          <img src="https://image.flaticon.com/icons/svg/182/182336.svg" width="24px">
-          &nbsp;&nbsp;Campus Araguaína
-        </ion-item>
-        <br>
-        <ion-item class="item" menu-close href="#/app/home">
-          <img src="https://image.flaticon.com/icons/svg/182/182336.svg" width="24px">
-          &nbsp;&nbsp;Campus Araguatins
-        </ion-item>
-        <br>
-        <ion-item class="item" menu-close href="#/app/home">
-          <img src="https://image.flaticon.com/icons/svg/182/182336.svg" width="24px">
-          &nbsp;&nbsp;Campus Paraíso
-        </ion-item>
-        <br>
-        <ion-item class="item" menu-close href="#/app/home">
-          <img src="https://image.flaticon.com/icons/svg/182/182336.svg" width="24px">
-          &nbsp;&nbsp;Campus Dianópolis
-        </ion-item>
-        <br>
-        <ion-item class="item" menu-close href="#/app/home">
-          <img src="https://image.flaticon.com/icons/svg/182/182336.svg" width="24px">
-          &nbsp;&nbsp;Campus Porto Nacional
-        </ion-item> -->
         <br>
       </ion-list>
     </ion-content>
