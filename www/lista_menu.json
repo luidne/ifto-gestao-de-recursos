@@ -12,7 +12,7 @@
 		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
-		"nome":"Campus Porto Nacinal",
+		"nome":"Campus Gurupi",
 		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
@@ -25,6 +25,26 @@
 	},
 	{
 		"nome":"Campus Paraíso",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
+	},
+	{
+		"nome":"Campus Porto Nacional",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
+	},
+	{
+		"nome":"Campus Formoso do Araguaia",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
+	},
+	{
+		"nome":"Campus Lagoa da Confusão",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
+	},
+	{
+		"nome":"Campus Colinas do Tocantins",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
+	},
+	{
+		"nome":"Campus Pedro Afonso",
 		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	}
 ]
