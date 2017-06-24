@@ -1,20 +1,30 @@
 [
 	{
-		"nome":"Campus Palmas"
+		"nome": "Início",
+		"icone":"https://image.freepik.com/free-icon/home-ios-7-interface-symbol_318-38804.jpg"
 	},
 	{
-		"nome":"Campus AraguaÃ­na"
+		"nome":"Campus Palmas",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
-		"nome":"Campus Porto Nacinal"
+		"nome":"Campus Araguaína",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
-		"nome":"Campus Palmas"
+		"nome":"Campus Porto Nacinal",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
-		"nome":"Campus Palmas"
+		"nome":"Campus Araguatins",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
-		"nome":"Campus Palmas"
+		"nome":"Campus Dianópolis",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
+	},
+	{
+		"nome":"Campus Paraíso",
+		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	}
 ]
