@@ -52,16 +52,25 @@ angular.module('starter.controllers', [])
   $scope.campus = {
                     "campus": { "nome": "Início" }
                   };
+
+  // O parâmetro args é passado quando item do menu lateral é selecionado 
   $scope.getCampus = function(args){
     console.log(args);
+
+    // Troca o título da página para a string recebida na função    
     $scope.campus = {
                       "campus": { "nome": args }
                     };
-    //$state.go('app.campus'); Não funciona
-    $location.path('/app/campus');
+    $location.path('/app/campus'); // Vai para a página de detalhes do campus
     $http.get("https://bitbucket.org/luidne/ifto-gestao-de-recursos/raw/813c517fc936aaa0a8115956b6c94c284643da08/www/lista_campus.json")
       .success(function(data) {
-      $scope.campus = data[0];
+      // Pega o item do JSON que tem o nome do campus igual a args (args é passado quando o item do menu latareal é cliclado)
+      // args é o mesmo nome do menu      
+      for(var i = 0; i < data.length; i++) {
+        if(angular.equals(data[i].campus.nome, args)) {
+          $scope.campus = data[i];
+        }
+      }
     });
   }
   
