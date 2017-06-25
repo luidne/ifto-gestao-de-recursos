@@ -37,6 +37,15 @@ angular.module('starter', ['ionic', 'starter.controllers'])
           params: {'id':'asdasd'}
     	})
 
+      .state('app.campus', {
+          url: '/campus',
+          views: {
+            'menuContent': {
+                templateUrl: 'templates/campus.html',
+            }
+          }
+      })
+
     	.state('app.videos', {
        		url: '/videos',
        		views: {

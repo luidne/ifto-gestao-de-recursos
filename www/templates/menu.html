@@ -24,13 +24,13 @@
     <ion-content class="custom">
       <div style="text-align: center; padding: 16px;">
         <img class="img"  src="https://www.aquivocepassa.com/images/concursos/2412/instituto-federal-do-tocantins-ifto-assistente-em-administracao.png">
-        {{teste.id}}
       </div>
       <br>
       <ion-list>
-        <ion-item ng-repeat="menu in dados" class="item" menu-close href="#/app/home">
-          <img ng-src="{{menu.icone}}" width="24px">
-          &nbsp;&nbsp;{{menu.nome}}
+        <ion-item ng-repeat="menu in dados" class="item" menu-close href="javascript:void()"
+                  ng-click="getCampus(menu.nome);">
+          <img ng-src="{{menu.icone}}" width="24px">&nbsp;&nbsp;
+            {{menu.nome}}
         </ion-item>
         <br>
       </ion-list>

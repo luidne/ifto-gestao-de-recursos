@@ -17,7 +17,7 @@ angular.module('starter.controllers', [])
 
 .controller('LogaConta', function($scope, $http, $state) {
 	$scope.Login = function(){
-    $state.go("app.home", {'id': "teste kkkkk"});
+    //$state.go("app.home", {'id': "teste kkkkk"});
 		/*$http.get('http://10.101.0.22:1701/senhas/senhas.json').success(function(data){
     		//$http.get('http://200.129.176.42:1700/senhas/senhas.json').success(function(data){
             		var usuario = document.getElementById("usuario").value;
@@ -43,13 +43,28 @@ angular.module('starter.controllers', [])
 })
 
 /*Controlador do Menu*/
-.controller('AppCtrl', function($scope, $ionicModal, $timeout, $http, $stateParams) {
+.controller('AppCtrl', function($scope, $ionicModal, $timeout, $http, $state, $location) {
 	//var url = "http://10.101.0.22:1701/json/lista_menu.json";
 	var url = "https://bitbucket.org/luidne/ifto-gestao-de-recursos/raw/18ddea5f3b9a2c26ae6664a7449fb21840bd490a/www/lista_menu.json";
   $http.get(url).success(function(data) {
 		$scope.dados = data;
 	});
-  console.log($stateParams);
+  $scope.campus = {
+                    "campus": { "nome": "Início" }
+                  };
+  $scope.getCampus = function(args){
+    console.log(args);
+    $scope.campus = {
+                      "campus": { "nome": args }
+                    };
+    //$state.go('app.campus'); Não funciona
+    $location.path('/app/campus');
+    $http.get("https://bitbucket.org/luidne/ifto-gestao-de-recursos/raw/813c517fc936aaa0a8115956b6c94c284643da08/www/lista_campus.json")
+      .success(function(data) {
+      $scope.campus = data[0];
+    });
+  }
+  
 })
 
 .controller('PlaylistCtrl', function($scope, $stateParams) {
