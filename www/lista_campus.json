@@ -5,5 +5,75 @@
 		},
 		"titulo": "Infraestrutura",
 		"texto": "Com uma capacidade para atender mais de 4.000 alunos, o Campus Palmas do Instituto Federal de Educa\u00E7\u00E3o, Ci\u00EAncia e Tecnologia do Tocantins integra a Rede Federal de Educa\u00E7\u00E3o Tecnol\u00F3gica e ocupa, hoje, uma \u00E1rea de 128.508,38m\u00B2, com aproximadamente 25 mil m\u00B2 de \u00E1rea constru\u00EDda.\r\n\r\nAs instala\u00E7\u00F5es f\u00EDsicas est\u00E3o distribu\u00EDdas em:\r\n\r\n02 blocos destinados \u00E0 \u00E1rea administrativa e consult\u00F3rios m\u00E9dico-odontol\u00F3gicos;\r\n\r\n01 Biblioteca;\r\n\r\n01 Laborat\u00F3rio da \u00E1rea de educa\u00E7\u00E3o f\u00EDsica;\r\n\r\n05 Laborat\u00F3rios da \u00E1rea de constru\u00E7\u00E3o civil;\r\n\r\n01 Laborat\u00F3rio de F\u00EDsica;\r\n\r\n08 Laborat\u00F3rios da \u00E1rea de ind\u00FAstria;\r\n\r\n01 laborat\u00F3rio de biologia;\r\n\r\n01 Laborat\u00F3rio de qu\u00EDmica;\r\n\r\n14 Laborat\u00F3rios de Inform\u00E1tica;\r\n\r\n02 Laborat\u00F3rios de desenhos;\r\n\r\n01 Telecentro;\r\n\r\n01 Audit\u00F3rio com capacidade para 230 pessoas\r\n\r\n01 Complexo Esportivo, com gin\u00E1sio, campo de futebol, quadras poliesportivas  e piscina\r\n\r\n72 salas de aula;\""
+	},
+	{
+	"campus": {
+			"nome": "Campus Araguaina"
+		},
+		"titulo": "Infraestrutura",
+		"texto": "Faltando dados 1"
+	},
+	{
+		"campus": {
+			"nome": "Campus Gurupi"
+		},
+		"titulo": "Infraestrutura",
+		"texto": "Faltando dados 2"
+	},
+	{
+		"campus": {
+			"nome": "Campus Porto Nacional"
+		},
+		"titulo": "Infraestrutura",
+		"texto": "Faltando dados 3"
+	},
+	{
+		"campus": {
+			"nome": "Campus Paraiso"
+		},
+		"titulo": "Infraestrutura",
+		"texto": "Faltando dados 4"
+	},
+	{
+		"campus": {
+			"nome": "Campus Pedro Afonso"
+		},
+		"titulo": "Infraestrutura",
+		"texto": "Faltando dados 5"
+	},
+	{
+		"campus": {
+			"nome": "Campus Araguatins"
+		},
+		"titulo": "Infraestrutura",
+		"texto": "Faltando dados 6"
+	},
+	{
+		"campus": {
+			"nome": "Campus Dianópolis"
+		},
+		"titulo": "Infraestrutura",
+		"texto": "Faltando dados 7"
+	},
+	{
+		"campus": {
+			"nome": "Campus Formoso do Araguaia"
+		},
+		"titulo": "Infraestrutura",
+		"texto": "Faltando dados 8"
+	},
+	{
+		"campus": {
+			"nome": "Campus Lagoa da Confusão"
+		},
+		"titulo": "Infraestrutura",
+		"texto": "Faltando dados 9"
+	},
+	{
+		"campus": {
+			"nome": "Campus Colinas do Tocantins"
+		},
+		"titulo": "Infraestrutura",
+		"texto": "Faltando dados 10"
 	}
 ]
