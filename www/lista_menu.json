@@ -1,6 +1,6 @@
 [
 	{
-		"nome": "Início",
+		"nome": "In\u00EDcio",
 		"icone":"https://image.freepik.com/free-icon/home-ios-7-interface-symbol_318-38804.jpg"
 	},
 	{
@@ -8,7 +8,7 @@
 		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
-		"nome":"Campus Araguaína",
+		"nome":"Campus Aragua\u00EDna",
 		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
@@ -20,11 +20,11 @@
 		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
-		"nome":"Campus Dianópolis",
+		"nome":"Campus Dian\u00F3polis",
 		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
-		"nome":"Campus Paraíso",
+		"nome":"Campus Para\u00EDso",
 		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
@@ -36,7 +36,7 @@
 		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{
-		"nome":"Campus Lagoa da Confusão",
+		"nome":"Campus Lagoa da Confus\u00E3o",
 		"icone": "https://image.flaticon.com/icons/svg/182/182336.svg"
 	},
 	{

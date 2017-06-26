@@ -62,7 +62,7 @@ angular.module('starter.controllers', [])
                       "campus": { "nome": args }
                     };
     $location.path('/app/campus'); // Vai para a página de detalhes do campus
-    $http.get("https://bitbucket.org/luidne/ifto-gestao-de-recursos/raw/813c517fc936aaa0a8115956b6c94c284643da08/www/lista_campus.json")
+    $http.get("https://bitbucket.org/luidne/ifto-gestao-de-recursos/raw/58486be43dcae53d769e380e275b867ea5605c01/www/lista_campus.json")
       .success(function(data) {
       // Pega o item do JSON que tem o nome do campus igual a args (args é passado quando o item do menu latareal é cliclado)
       // args é o mesmo nome do menu      

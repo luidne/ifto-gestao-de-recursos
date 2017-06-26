@@ -4,21 +4,21 @@
 			"nome": "Campus Palmas"
 		},
 		"titulo": "Infraestrutura",
-		"texto": "Com uma capacidade para atender mais de 4.000 alunos, o Campus Palmas do Instituto Federal de Educa\u00E7\u00E3o, Ci\u00EAncia e Tecnologia do Tocantins integra a Rede Federal de Educa\u00E7\u00E3o Tecnol\u00F3gica e ocupa, hoje, uma \u00E1rea de 128.508,38m\u00B2, com aproximadamente 25 mil m\u00B2 de \u00E1rea constru\u00EDda.\r\n\r\nAs instala\u00E7\u00F5es f\u00EDsicas est\u00E3o distribu\u00EDdas em:\r\n\r\n02 blocos destinados \u00E0 \u00E1rea administrativa e consult\u00F3rios m\u00E9dico-odontol\u00F3gicos;\r\n\r\n01 Biblioteca;\r\n\r\n01 Laborat\u00F3rio da \u00E1rea de educa\u00E7\u00E3o f\u00EDsica;\r\n\r\n05 Laborat\u00F3rios da \u00E1rea de constru\u00E7\u00E3o civil;\r\n\r\n01 Laborat\u00F3rio de F\u00EDsica;\r\n\r\n08 Laborat\u00F3rios da \u00E1rea de ind\u00FAstria;\r\n\r\n01 laborat\u00F3rio de biologia;\r\n\r\n01 Laborat\u00F3rio de qu\u00EDmica;\r\n\r\n14 Laborat\u00F3rios de Inform\u00E1tica;\r\n\r\n02 Laborat\u00F3rios de desenhos;\r\n\r\n01 Telecentro;\r\n\r\n01 Audit\u00F3rio com capacidade para 230 pessoas\r\n\r\n01 Complexo Esportivo, com gin\u00E1sio, campo de futebol, quadras poliesportivas  e piscina\r\n\r\n72 salas de aula;\""
+		"texto": "Dados do campus de Palmas. Com uma capacidade para atender mais de 4.000 alunos, o Campus Palmas do Instituto Federal de Educa\u00E7\u00E3o, Ci\u00EAncia e Tecnologia do Tocantins integra a Rede Federal de Educa\u00E7\u00E3o Tecnol\u00F3gica e ocupa, hoje, uma \u00E1rea de 128.508,38m\u00B2, com aproximadamente 25 mil m\u00B2 de \u00E1rea constru\u00EDda.\r\n\r\nAs instala\u00E7\u00F5es f\u00EDsicas est\u00E3o distribu\u00EDdas em:\r\n\r\n02 blocos destinados \u00E0 \u00E1rea administrativa e consult\u00F3rios m\u00E9dico-odontol\u00F3gicos;\r\n\r\n01 Biblioteca;\r\n\r\n01 Laborat\u00F3rio da \u00E1rea de educa\u00E7\u00E3o f\u00EDsica;\r\n\r\n05 Laborat\u00F3rios da \u00E1rea de constru\u00E7\u00E3o civil;\r\n\r\n01 Laborat\u00F3rio de F\u00EDsica;\r\n\r\n08 Laborat\u00F3rios da \u00E1rea de ind\u00FAstria;\r\n\r\n01 laborat\u00F3rio de biologia;\r\n\r\n01 Laborat\u00F3rio de qu\u00EDmica;\r\n\r\n14 Laborat\u00F3rios de Inform\u00E1tica;\r\n\r\n02 Laborat\u00F3rios de desenhos;\r\n\r\n01 Telecentro;\r\n\r\n01 Audit\u00F3rio com capacidade para 230 pessoas\r\n\r\n01 Complexo Esportivo, com gin\u00E1sio, campo de futebol, quadras poliesportivas  e piscina\r\n\r\n72 salas de aula;\""
 	},
 	{
 	"campus": {
-			"nome": "Campus Araguaina"
+			"nome": "Campus Aragua\u00EDna"
 		},
 		"titulo": "Infraestrutura",
-		"texto": "Faltando dados 1"
+		"texto": "Dados do campus de Aragua\u00EDna \u00C9 um fato conhecido de todos que um leitor se distrair\u00E1 com o conte\u00FAdo de texto leg\u00EDvel de uma p\u00E1gina quando estiver examinando sua diagrama\u00E7\u00E3o. A vantagem de usar Lorem Ipsum \u00E9 que ele tem uma distribui\u00E7\u00E3o normal de letras, ao contr\u00E1rio de \"Conte\u00FAdo aqui, conte\u00FAdo aqui\", fazendo com que ele tenha uma apar\u00EAncia similar a de um texto leg\u00EDvel. Muitos softwares de publica\u00E7\u00E3o e editores de p\u00E1ginas na internet agora usam Lorem Ipsum como texto-modelo padr\u00E3o, e uma r\u00E1pida busca por 'lorem ipsum' mostra v\u00E1rios websites ainda em sua fase de constru\u00E7\u00E3o. V\u00E1rias vers\u00F5es novas surgiram ao longo dos anos, eventualmente por acidente, e \u00E0s vezes de prop\u00F3sito (injetando humor, e coisas do g\u00EAnero)."
 	},
 	{
 		"campus": {
 			"nome": "Campus Gurupi"
 		},
 		"titulo": "Infraestrutura",
-		"texto": "Faltando dados 2"
+		"texto": "Dados do campus de Gurupi. Existem muitas variações disponíveis de passagens de Lorem Ipsum, mas a maioria sofreu algum tipo de alteração, seja por inserção de passagens com humor, ou palavras aleatórias que não parecem nem um pouco convincentes. Se você pretende usar uma passagem de Lorem Ipsum, precisa ter certeza de que não há algo embaraçoso escrito escondido no meio do texto."
 	},
 	{
 		"campus": {
@@ -29,7 +29,7 @@
 	},
 	{
 		"campus": {
-			"nome": "Campus Paraiso"
+			"nome": "Campus Para\u00EDso"
 		},
 		"titulo": "Infraestrutura",
 		"texto": "Faltando dados 4"
@@ -50,7 +50,7 @@
 	},
 	{
 		"campus": {
-			"nome": "Campus Dianópolis"
+			"nome": "Campus Dian\u00F3polis"
 		},
 		"titulo": "Infraestrutura",
 		"texto": "Faltando dados 7"
@@ -64,7 +64,7 @@
 	},
 	{
 		"campus": {
-			"nome": "Campus Lagoa da Confusão"
+			"nome": "Campus Lagoa da Confus\u00E3o"
 		},
 		"titulo": "Infraestrutura",
 		"texto": "Faltando dados 9"
