@@ -45,7 +45,7 @@ angular.module('starter.controllers', [])
 /*Controlador do Menu*/
 .controller('AppCtrl', function($scope, $ionicModal, $timeout, $http, $state, $location) {
 	//var url = "http://10.101.0.22:1701/json/lista_menu.json";
-	var url = "https://bitbucket.org/luidne/ifto-gestao-de-recursos/raw/c1934377a666bc7ba2b980cdf39a57dd43bc4e9b/www/lista_menu.json";
+	var url = "http://grupo6.centralus.cloudapp.azure.com:8181/lista_menu.json";
   $http.get(url).success(function(data) {
 		$scope.dados = data;
 	});
@@ -62,7 +62,7 @@ angular.module('starter.controllers', [])
                       "campus": { "nome": args }
                     };
     $location.path('/app/campus'); // Vai para a página de detalhes do campus
-    $http.get("https://bitbucket.org/luidne/ifto-gestao-de-recursos/downloads/lista_campus.json")
+    $http.get("http://grupo6.centralus.cloudapp.azure.com:8181/lista_campus.json")
       .success(function(data) {
       // Pega o item do JSON que tem o nome do campus igual a args (args é passado quando o item do menu latareal é cliclado)
       // args é o mesmo nome do menu      
