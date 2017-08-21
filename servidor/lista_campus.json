@@ -176,14 +176,105 @@
             }
         ],
         "cursos":[  
+			{
+				"nome": "Técnico em Informatica",
+				"nivel": "Técnicos Integrados ao Ensino Médio"
+			},
+			{
+				"nome": "Técnico em Biotecnologia",
+				"nivel": "Técnicos Integrados ao Ensino Médio"
+			},
+			{
+				"nome": "Técnico em Análises Clinicas",
+				"nivel": "Técnicos Subsequentes ao Ensino Médio"
+			},
+			{
+				"nome": "Técnico em Enfermagem",
+				"nivel": "Técnicos Subsequentes ao Ensino Médio"
+			},
+			{
+				"nome": "Técnico em Informatica Para Internet",
+				"nivel": "Técnicos Subsequentes ao Ensino Médio"
+			},
+			{
+				"nome": "Análise e Desenvolvimento de Sistemas",
+				"nivel": "Ensino Superior"
+			},
+			{
+				"nome": "Gestão da Produção Industrial",
+				"nivel": "Ensino Superior"
+			},
+			{
+				"nome": "Formação Docente em Educação Ambiental e Desenvolvimento Sustentável",
+				"nivel": "Pós-Graduação"
+			}
+        ]
+    },
+    {  
+        "nome":"Campus Gurupi",
+        "cidade":"Gurupi",
+        "resusmo":"Ipsum lorem",
+        "ImagemUrl":"http://trocar.url.png",
+        "recursos":[  
             {  
-                "nome":"Gestão Pública",
-                "nivel":"Superior"
-            },
-            {  
-                "nome":"Agrimensura",
-                "nivel":"Médio Integrado"
+                "nome":"Sala de Aula",
+                "quantidade":40,
+                "acessivel":false,
+                "tags":[  
+                    {  
+                        "nome":"ensino"
+                    },
+                    {  
+                        "nome":"outra tag"
+                    }
+                ]
             }
+        ],
+        "cursos":[  
+			{
+				"nome": "TÉCNICO EM ADMINISTRAÇÃO",
+				"nivel": "Técnicos Integrados ao Ensino Médio"
+			},
+			{
+				"nome": "TÉCNICO EM AGRONEGÓCIO",
+				"nivel": "Técnicos Integrados ao Ensino Médio"
+			},
+			{
+				"nome": "TÉCNICO EM EDIFICAÇÕES",
+				"nivel": "Técnicos Integrados ao Ensino Médio"
+			},
+			{
+				"nome": "TÉCNICO EM COMÉRCIO",
+				"nivel": "Integrado EJA"
+			},
+			{
+				"nome": "TÉCNICO OPERADOR DE COMPUTADOR",
+				"nivel": "Integrado EJA"
+			},
+			{
+				"nome": "TÉCNICO EM AGRONEGÓCIO",
+				"nivel": "Técnicos Subsequentes ao Ensino Médio"
+			},
+			{
+				"nome": "TÉCNICO EM EDIFICAÇÕES",
+				"nivel": "Técnicos Subsequentes ao Ensino Médio"
+			},
+			{
+				"nome": "ARTES CÊNICAS",
+				"nivel": "Ensino Superior"
+			},
+			{
+				"nome": "GESTÃO PÚBLICA",
+				"nivel": "Ensino Superior"
+			},
+			{
+				"nome": "ENGENHARIA CIVIL",
+				"nivel": "Ensino Superior"
+			},
+			{
+				"nome": "ARTE EDUCAÇÃO",
+				"nivel": "Pós-Graduação"
+			}
         ]
     }
 ]
