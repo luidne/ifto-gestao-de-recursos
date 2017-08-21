@@ -1,0 +1,22 @@
+<ion-menu [content]="content">
+ <!--  <ion-header>
+    <ion-toolbar>
+      <ion-title>Menu</ion-title>
+    </ion-toolbar>
+  </ion-header> -->
+
+  <ion-content>
+    <div style="text-align: center; padding: 16px;">
+        <img class="img"  src="https://www.aquivocepassa.com/images/concursos/2412/instituto-federal-do-tocantins-ifto-assistente-em-administracao.png">
+      </div>
+    <ion-list no-lines>
+      <button menuClose ion-item *ngFor="let item of menus" (click)="openPage(item)">         
+        {{item.nome}}
+      </button>
+    </ion-list>
+  </ion-content>
+
+</ion-menu>
+
+<!-- Disable swipe-to-go-back because it's poor UX to combine STGB with side menus -->
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>

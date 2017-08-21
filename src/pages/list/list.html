@@ -1,0 +1,79 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title *ngIf="campus">{{campus.nome}}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+
+<ion-card style="text-align: center;">
+    <img class="img" style="margin: 0 auto;" src="http://portal.ifto.edu.br/imagens/unidades/miniatura/campus-palmas">
+  
+  <!--   <ion-card-content *ngIf="campus">   
+      <p>{{campus.resusmo}}</p>
+    </ion-card-content> -->
+  </ion-card>
+<!-- 
+<img src="" /> -->
+
+  <div *ngIf="campus" padding>
+    <p>{{campus.resusmo}}</p>
+  </div>
+  
+  <div padding>
+    <h3>Recursos</h3>
+  </div>
+
+  <ion-list *ngIf="campus" padding>
+    <ion-item ion-item *ngFor="let item of campus.recursos">
+      <!-- <ion-icon [name]="item.icon" item-left></ion-icon> -->
+        {{item.nome}}
+      <div>
+        <p><b>Quantidade</b>&nbsp;&nbsp;{{item.quantidade}}</p>
+        <br/>
+        <p><b>Acessível</b>&nbsp;&nbsp;{{item.acessivel}}</p>
+        <br/>
+        <p><b>Tags</b>
+        <ion-grid>
+          <ion-row>            
+            <ion-list no-list>
+              <ion-item ion-item *ngFor="let tag of item.tags">
+                <ion-col col-2>{{tag.nome}}</ion-col>
+                <!-- <span>{{tag.nome}}</span> -->
+              </ion-item>
+            </ion-list>
+          </ion-row>
+        </ion-grid>
+        </p>
+      </div>
+    </ion-item>
+  </ion-list>
+
+  
+  <div padding>
+    <h3>Cursos</h3>
+  </div>
+  <ion-list *ngIf="campus" padding>
+    <ion-item ion-item *ngFor="let item of campus.cursos">
+      <!-- <ion-icon [name]="item.icon" item-left></ion-icon> -->
+        {{item.nome}}
+      <div>
+        <p>{{item.nivel}}</p>
+      </div>
+    </ion-item>
+  </ion-list>
+  
+  
+<!--   <ion-list>
+    <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
+      <ion-icon [name]="item.icon" item-left></ion-icon>
+      {{item.title}}
+      <div class="item-note" item-right>
+        {{item.note}}
+      </div>
+    </button>
+  </ion-list> -->
+</ion-content>

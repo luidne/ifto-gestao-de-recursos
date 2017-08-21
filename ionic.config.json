@@ -1,8 +1,6 @@
 {
-  "name": "ccmAP",
+  "name": "ifto-sidemenu",
   "app_id": "",
-  "type": "ionic1",
-  "watchPatterns": [
-    "scss/**/*"
-  ]
+  "type": "ionic-angular",
+  "integrations": {}
 }
