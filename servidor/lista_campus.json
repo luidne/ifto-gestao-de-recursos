@@ -33,13 +33,125 @@
             }
         ],
         "cursos":[  
-            {  
-                "nome":"Gestão Pública",
-                "nivel":"Superior"
+            {
+            “nome”: “Administração”
+            “nivel”: “Técnicos Integrados ao Ensino Médio”
             },
-            {  
-                "nome":"Agrimensura",
-                "nivel":"Médio Integrado"
+            {
+            “nome”: “Agrimensura”
+            “nivel”: “Técnicos Integrados ao Ensino Médio”
+            },
+            {
+            “nome”: “Agronegócio”
+            “nivel”: “Técnicos Integrados ao Ensino Médio”
+            },
+            {
+            “nome”: “Eletrotécnica”
+            “nivel”: “Técnicos Integrados ao Ensino Médio”
+            },
+            {
+            “nome”: “Eventos”
+            “nivel”: “Técnicos Integrados ao Ensino Médio”
+            },
+            {
+            “nome”: “Informática”
+            “nivel”: “Técnicos Integrados ao Ensino Médio”
+            },
+            {
+            “nome”: “Mecatrônica”
+            “nivel”: “Técnicos Integrados ao Ensino Médio”
+            },
+            {
+            “nome”: “Agrimensura”
+            “nivel”: “Técnicos Subsequentes ao Ensino Médio”
+            },
+            {
+            “nome”: “Automação Industrial”
+            “nivel”: “Técnicos Subsequentes ao Ensino Médio”
+            },
+            {
+            “nome”: “Controle Ambiental”
+            “nivel”: “Técnicos Subsequentes ao Ensino Médio”
+            },
+            {
+            “nome”: “Edificações”
+            “nivel”: “Técnicos Subsequentes ao Ensino Médio”
+            },
+            {
+            “nome”: “Eletrotécnica”
+            “nivel”: “Técnicos Subsequentes ao Ensino Médio”
+            },
+            {
+            “nome”: “Informática”
+            “nivel”: “Técnicos Subsequentes ao Ensino Médio”
+            },
+            {
+            “nome”: “Mecatrônica”
+            “nivel”: “Técnicos Subsequentes ao Ensino Médio”
+            },
+            {
+            “nome”: “Secretariado”
+            “nivel”: “Técnicos Subsequentes ao Ensino Médio”
+            },
+            {
+            “nome”: “Segurança do Trabalho”
+            “nivel”: “Técnicos Subsequentes ao Ensino Médio”
+            },
+            {
+            “nome”: “CST Agronegócio”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “CST Construção de Edifícios”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “CST Gestão de Turismo”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “CST Gestão Pública”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “CST Sistemas Elétricos”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “CST Sistemas para Internet”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “Engenharia Civil”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “Engenharia Elétrica”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “Lic. Educação Física”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “Lic. Física”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “Lic. Letras”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “Lic. Matemática”
+            “nivel”: “Ensino Superior”
+            },
+            {
+            “nome”: “Telemática”
+            “nivel”: “Pós-Graduação”
+            },
+            {
+            “nome”: “Proeja”
+            “nivel”: “FIC/Qualificação”
             }
         ]
     },
