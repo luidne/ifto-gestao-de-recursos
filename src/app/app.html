@@ -7,11 +7,11 @@
 
   <ion-content>
     <div style="text-align: center; padding: 16px;">
-        <img class="img"  src="https://www.aquivocepassa.com/images/concursos/2412/instituto-federal-do-tocantins-ifto-assistente-em-administracao.png">
+        <img class="img"  src="https://paraiso.ifto.edu.br/ava/main/img/session_default.png">
       </div>
     <ion-list no-lines>
       <button menuClose ion-item *ngFor="let item of menus" (click)="openPage(item)">         
-        {{item.nome}}
+        <img class="img" style="width: 24px;"  src="{{item.icone}}">&nbsp;&nbsp; {{item.nome}}
       </button>
     </ion-list>
   </ion-content>
