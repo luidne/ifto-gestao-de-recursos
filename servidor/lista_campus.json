@@ -7,98 +7,98 @@
 "recursos":[
 {
 "nome":"Blocos destinados à área administrativa e consultórios médico-odontológicos;",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Biblioteca;",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório da área de educação física;",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios da área de construção civil;",
-"quantidade":5
+"quantidade":5,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Física;",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios da área de indústria;",
-"quantidade":8
+"quantidade":8,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"laboratório de biologia;",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de química;",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios de Informática;",
-"quantidade":14
+"quantidade":4,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios de desenhos;",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Telecentro;",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Auditório com capacidade para 230 pessoas",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Complexo Esportivo, com ginásio, campo de futebol, quadras poliesportivas  e piscina",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"salas de aula;",
-"quantidade":72
+"quantidade":72,
 "acessivel":false,
 "tags":[ 
 ]
@@ -235,350 +235,350 @@
 "recursos":[
 {
 "nome":"Auditório",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Reprografia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Registros Escolares",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Masculino para Estudantes",
-"quantidade":3
+"quantidade":3,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Feminino para Estudantes",
-"quantidade":3
+"quantidade":3,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala Ead",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Copa e Cozinha",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Masculino para Servidores",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Feminino para Servidoras",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Gestão de Pessoas",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Manutenção e Transportes",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Compras, Licitações e Contratos",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Gerência de Ensino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Direção-geral",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Chefia de Gabinete",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Gerência de Administração",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Recepção geral",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Execução Orçamentária e Financeira",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Pesquisa",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala das Coordenações",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Setor de Tecnologia da Informação",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Setor de Tecnologia da Informação",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Biblioteca",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório Multi Didático",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Análises Clínicas",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Anatomia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Parasitologia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Enfermagem",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Física",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório Informática",
-"quantidade":4
+"quantidade":4,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Hardware",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Reuniões",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Área Desportiva",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Cantina",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Protocolo e Arquivo",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenações dos Cursos Superiores",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação Técnico-pedagógica",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Assistência Estudantil",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala do Serviço Social",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Grêmio Estudantil",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala dos Professores",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Setor de Esportes e Lazer",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala dos Funcionários Terceirizados",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Depósito",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Aula ",
-"quantidade":4
+"quantidade":4,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Almoxarifado e Patrimônio",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Setor de Almoxarifado e Patrimônio",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Garagem",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Guarita",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Área de Convivência",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
@@ -627,98 +627,98 @@
 "recursos":[
 {
 "nome":"Salas de Aula ",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Auditório",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Miniauditório",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Salas Administrativas ",
-"quantidade":7
+"quantidade":7,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Feminino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Masculino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios de Informática",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios de Química e Física",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios de Edificações",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Enfermagem",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Professores",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Dança",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios de Teatro",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios de Elétrica e Hidraúlica",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
@@ -779,28 +779,28 @@
 "recursos":[
 {
 "nome":"Laboratório de Informática",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Hardware",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Pesquisa",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Salas de Aula",
-"quantidade":9
+"quantidade":9,
 "acessivel":false,
 "tags":[ 
 ]
@@ -837,308 +837,308 @@
 "recursos":[
 {
 "nome":"Salas de Aula ",
-"quantidade":3
+"quantidade":3,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios de Ensino",
-"quantidade":4
+"quantidade":4,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Secretária",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Supervisão Pedagógica",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Orientação Educacional",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Curso",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Centro de Processamento de Dados - CPD",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Contabilidade",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação Administrativa",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Direção-geral",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Secretária da Direção",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Departamento de Ensino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Unidades de Ensino e Produção Criação de Suínos",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Unidades de Ensino e Produção Abate de Suínos",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Unidades de Ensino e Produção Laticínios",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Unidades de Ensino e Produção Reprodução de Alevinos",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Unidades de Ensino e Produção Criação de Aviários",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Panificação",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Hortifrutigranjeiros",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Cozinha Experimental",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Análise de Alimentos",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Micro. de Alimentos",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Bioquímica",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Química",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Saneamento",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Informática",
-"quantidade":3
+"quantidade":3,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Idiomas",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Escritório Modelo",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Fitotecnia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Física",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Análise Sensorial",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Salas de Aula ",
-"quantidade":4
+"quantidade":4,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Ambulatório Médico",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Reprografia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Reuniões",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Biblioteca",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Cantina",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Almoxarifado",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Masculino",
-"quantidade":3
+"quantidade":3,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Feminino",
-"quantidade":3
+"quantidade":3,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Masculino Auditório",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Feminino Auditório",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Direção-geral",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Ambulatório",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
@@ -1199,455 +1199,455 @@
 "recursos":[
 {
 "nome":"Salas de Aula ",
-"quantidade":7
+"quantidade":7,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Miniauditório",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Enfermaria",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Cantina",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Refeitório",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Alojamento Masculino 100 pesso",
-"quantidade":s
+"quantidade":5,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Alojamento Feminino 16 pesso",
-"quantidade":s
+"quantidade":5,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Residência de Servidores",
-"quantidade":3
+"quantidade":3,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Guarita",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Herbário",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Suinocultura",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Piscicultura",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Agroindústria",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Agricultura I",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Agricultura II",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Agricultura III",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Avicultura Corte",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Avicultura Postura",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Ovinocultura",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Bovinocultura",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Apicultura",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Estábulo",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de informática",
-"quantidade":9
+"quantidade":9,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Microbiologia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Bromatologia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Física",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Química",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Biologia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Microscopia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Citogenética",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Solos",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Astronomia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Salas Administrativas ",
-"quantidade":3
+"quantidade":3,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Fábrica de Ração",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Casa de Máquinas/Garagem",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Pesquisa",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Diretoria de Ensino/Gerência de Ensino Médio",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação do Curso Técnico em Agropecuária",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação do Curso Técnico em Redes",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Supervisão Escolar",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Setor de Orientação ao Educando",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Setor de Assistência Social",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Integração Campus Comunidade",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Setor de Vigilância",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Grêmio Estudantil",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Reprografia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Gerência de Ensino Superior",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação do Curso de Licenciatura em Ciências Biológicas",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação do Curso de Licenciatura em Computação",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação do Curso de Bacharelado em Agronomia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Centro Acadêmico",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Viveiro de Mudas",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Abatedouro",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Ginásio Poliesportivo",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Piscina Semiolímpica",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Campo Society",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Campo de Futebol",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Biblioteca",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Diversidade",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Centro de Idiomas",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Apartamentos ",
-"quantidade":0
+"quantidade":0,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Professores",
-"quantidade":5
+"quantidade":5,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Reuniões",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Terceirizados",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Estudos Internos",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
@@ -1688,189 +1688,189 @@
 "recursos":[
 {
 "nome":"Gerência de Administração",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Protocolo e Setor de Finanças",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Registros Escolares",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Gerência de Ensino e Coordenação de Integração Empresa-Escola",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Pesquisa e Extensão",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Gestão de Pessoas",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Direção-Geral",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Copa",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Setor de Tecnologia da Informação",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala dos Professores",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Cabines de Estu",
-"quantidade":o
+"quantidade":0,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Descanso",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Feminino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Masculino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro PNE",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Biblioteca",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Ginásio Poliesportivo",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Campo de Futebol society",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Campo de Futebol de areia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Miniauditório",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Biologia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Química",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Física",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Área de Vivência",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Pista de Atletismo",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Salas de Aula ",
-"quantidade":4
+"quantidade":4,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios de Informática",
-"quantidade":9
+"quantidade":9,
 "acessivel":false,
 "tags":[ 
 ]
@@ -1919,161 +1919,161 @@
 "recursos":[
 {
 "nome":"Banheiro Masculino",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Feminino",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Assistente de Aluno",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Recursos Didáticos",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Depósito",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Secretária",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Professores",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Salas de Aula",
-"quantidade":4
+"quantidade":4,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Informática",
-"quantidade":4
+"quantidade":4,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Física",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Química",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Biologia",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Informática",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Biblioteca",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Centro de Processamento de Dados - CPD",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Biblioteca",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Copa/Cozinha",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Enfermaria",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"COTEPE",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Gerência de Administração",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Assistência Estudantil",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Gerência de Ensino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Chefia de Gabinete",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
@@ -2110,112 +2110,112 @@
 "recursos":[
 {
 "nome":"Banheiro Feminino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Masculino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Feminino Servidor",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Masculino Servidor",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação Administrativa",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Almoxarifado",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Informática",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Copa/Cozinha",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala de Reunião",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Direção-geral",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Registros Escolares",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Agricultura",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Biblioteca",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Cursos",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Coordenação de Informática",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Salas de Aula",
-"quantidade":5
+"quantidade":5,
 "acessivel":false,
 "tags":[ 
 ]
@@ -2252,42 +2252,42 @@
 "recursos":[
 {
 "nome":"Banheiro Masculino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Feminino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório de Informática",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratório Multidisciplinar",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Salas de Aula",
-"quantidade":5
+"quantidade":5,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Salas Administrativas ",
-"quantidade":2
+"quantidade":2,
 "acessivel":false,
 "tags":[ 
 ]
@@ -2316,77 +2316,77 @@
 "recursos":[
 {
 "nome":"Laboratórios de Informática",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Laboratórios de Hardware",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Almoxarifado",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Secretária",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Direção-geral",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Sala dos Professores",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Biblioteca",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Depósito",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Masculino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Banheiro Feminino",
-"quantidade":1
+"quantidade":1,
 "acessivel":false,
 "tags":[ 
 ]
 },
 {
 "nome":"Salas de Aula",
-"quantidade":4
+"quantidade":4,
 "acessivel":false,
 "tags":[ 
 ]
