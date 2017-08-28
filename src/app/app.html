@@ -10,8 +10,9 @@
         <img class="img"  src="https://paraiso.ifto.edu.br/ava/main/img/session_default.png">
       </div>
     <ion-list no-lines>
-      <button menuClose ion-item *ngFor="let item of menus" (click)="openPage(item)">         
-        <img class="img" style="width: 24px;"  src="{{item.icone}}">&nbsp;&nbsp; {{item.nome}}
+      <button text-wrap menuClose ion-item *ngFor="let item of menus" (click)="openPage(item)">         
+        <img class="img" style="width: 20px;"  src="{{item.icone}}">&nbsp;&nbsp;
+        <span style="font-size: .8em;">{{item.nome}}</span>
       </button>
     </ion-list>
   </ion-content>

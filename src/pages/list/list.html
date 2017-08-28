@@ -18,23 +18,14 @@
     display: inline-block;
   }
 </style>
-<ion-card style="text-align: center;">
-    <img class="img" style="margin: 0 auto;" src="http://portal.ifto.edu.br/imagens/unidades/miniatura/campus-palmas">
-  
-  <!--   <ion-card-content *ngIf="campus">   
-      <p>{{campus.resusmo}}</p>
-    </ion-card-content> -->
-  </ion-card>
-<!-- 
-<img src="" /> -->
 
-  <div *ngIf="campus" padding>
-    <p>{{campus.resusmo}}</p>
-  </div>
-  
-  <!--<div padding-left>
-    <h3>Recursos</h3>
-  </div>-->
+<ion-card style="text-align: center;">
+    <img *ngIf="campus" class="img" style="margin: 0 auto;" src="{{campus.imagemUrl}}">
+</ion-card>
+
+<div *ngIf="campus" padding-left paddgin-right>
+  <div [innerHtml]="campus.resumo"></div>
+</div>
 
 <ion-card>
   <ion-card-header (click)="toggleRecursos()">
@@ -42,10 +33,10 @@
     <ion-icon color="primary" item-end [name]="mostrarRecursos.icon"></ion-icon>
   </ion-card-header>
   <ion-card-content *ngIf="mostrarRecursos.mostrar" >
-    <ion-list *ngIf="campus" padding no-lines>
+    <ion-list *ngIf="campus" no-lines>
       <ion-item ion-item *ngFor="let item of campus.recursos">
         <!-- <ion-icon [name]="item.icon" item-left></ion-icon> -->
-          <h2>{{item.nome}}</h2>
+          <h2 text-wrap>{{item.nome}}</h2>
         <div>
           <p><b>Quantidade</b>  <ion-badge color="secondary">{{item.quantidade}}</ion-badge></p>
           <div>
@@ -59,19 +50,23 @@
   </ion-card-content>
 </ion-card>
   
-  <div padding-left>
-    <h3>Cursos</h3>
-  </div>
-  <ion-list *ngIf="campus" padding no-lines>
-    <ion-item ion-item *ngFor="let item of campus.cursos">
-      <!-- <ion-icon [name]="item.icon" item-left></ion-icon> -->
-        {{item.nome}}
-      <div>
-        <p>{{item.nivel}}</p>
-      </div>
-    </ion-item>
-  </ion-list>
-  
+  <ion-card>
+  <ion-card-header (click)="toggleCursos()">
+    <b>CURSOS</b>
+    <ion-icon color="primary" item-end [name]="mostrarCursos.icon"></ion-icon>
+  </ion-card-header>
+  <ion-card-content *ngIf="mostrarCursos.mostrar" >
+    <ion-list *ngIf="campus" no-lines>
+      <ion-item ion-item *ngFor="let item of campus.cursos">
+        <!-- <ion-icon [name]="item.icon" item-left></ion-icon> -->
+          <h2 text-wrap>{{item.nome}}</h2>
+        <div>
+            <p text-wrap>{{item.nivel}}</p>
+        </div>
+      </ion-item>
+    </ion-list>
+  </ion-card-content>
+</ion-card>  
   
 <!--   <ion-list>
     <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">

@@ -13,6 +13,7 @@ export class ListPage {
   items: Array<{title: string, note: string, icon: string}>;
   campus: any;
   mostrarRecursos: { mostrar: boolean, icon: string };
+  mostrarCursos: { mostrar: boolean, icon: string };
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public http: Http) {
     console.log(navParams);
@@ -21,6 +22,7 @@ export class ListPage {
     this.selectedItem = navParams.data;
 
     this.http.get('http://grupo6.centralus.cloudapp.azure.com:8181/lista_campus.json')
+    // this.http.get('http://localhost:8181/lista_campus.json')
         .map(res => res.json()).subscribe(data => {
         for(var i = 0; i < data.length; i++) {
           if(this.selectedItem.nome == data[i].nome) {
@@ -31,6 +33,7 @@ export class ListPage {
     });
 
     this.mostrarRecursos = { mostrar: false, icon: "ios-add-circle-outline"};
+    this.mostrarCursos = { mostrar: false, icon: "ios-add-circle-outline"};
     /*this.mostrarRecursos.mostrar = false;
     this.mostrarRecursos.icon = "ios-add-circle-outline";*/
 
@@ -62,6 +65,16 @@ export class ListPage {
     } else {
       this.mostrarRecursos.mostrar = true;
       this.mostrarRecursos.icon = "ios-remove-circle-outline"
+    }
+  }
+
+  toggleCursos() {
+    if(this.mostrarCursos.mostrar) {
+      this.mostrarCursos.mostrar = false;
+      this.mostrarCursos.icon = "ios-add-circle-outline"
+    } else {
+      this.mostrarCursos.mostrar = true;
+      this.mostrarCursos.icon = "ios-remove-circle-outline"
     }
   }
 }

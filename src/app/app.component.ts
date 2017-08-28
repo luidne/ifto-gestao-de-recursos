@@ -29,6 +29,7 @@ export class MyApp {
     ];
 
     this.http.get('http://grupo6.centralus.cloudapp.azure.com:8181/lista_menu.json')
+    // this.http.get('http://localhost:8181/lista_menu.json')
         .map(res => res.json()).subscribe(data => {
         this.menus = data;
     });
