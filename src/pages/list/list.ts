@@ -12,6 +12,7 @@ export class ListPage {
   icons: string[];
   items: Array<{title: string, note: string, icon: string}>;
   campus: any;
+  mostrarRecursos: { mostrar: boolean, icon: string };
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public http: Http) {
     console.log(navParams);
@@ -29,7 +30,9 @@ export class ListPage {
         }
     });
 
-    
+    this.mostrarRecursos = { mostrar: false, icon: "ios-add-circle-outline"};
+    /*this.mostrarRecursos.mostrar = false;
+    this.mostrarRecursos.icon = "ios-add-circle-outline";*/
 
     /* // Let's populate this page with some filler content for funzies
     this.icons = ['flask', 'wifi', 'beer', 'football', 'basketball', 'paper-plane',
@@ -50,5 +53,15 @@ export class ListPage {
     this.navCtrl.push(ListPage, {
       item: item
     });
+  }
+
+  toggleRecursos() {
+    if(this.mostrarRecursos.mostrar) {
+      this.mostrarRecursos.mostrar = false;
+      this.mostrarRecursos.icon = "ios-add-circle-outline"
+    } else {
+      this.mostrarRecursos.mostrar = true;
+      this.mostrarRecursos.icon = "ios-remove-circle-outline"
+    }
   }
 }

@@ -32,27 +32,32 @@
     <p>{{campus.resusmo}}</p>
   </div>
   
-  <div padding-left>
+  <!--<div padding-left>
     <h3>Recursos</h3>
-  </div>
+  </div>-->
 
-  <ion-list *ngIf="campus" padding no-lines>
-    <ion-item ion-item *ngFor="let item of campus.recursos">
-      <!-- <ion-icon [name]="item.icon" item-left></ion-icon> -->
-        <h2>{{item.nome}}</h2>
-      <div>
-        <p><b>Quantidade:   </b>{{item.quantidade}}</p>
+<ion-card>
+  <ion-card-header (click)="toggleRecursos()">
+    <b>RECURSOS</b>
+    <ion-icon color="primary" item-end [name]="mostrarRecursos.icon"></ion-icon>
+  </ion-card-header>
+  <ion-card-content *ngIf="mostrarRecursos.mostrar" >
+    <ion-list *ngIf="campus" padding no-lines>
+      <ion-item ion-item *ngFor="let item of campus.recursos">
+        <!-- <ion-icon [name]="item.icon" item-left></ion-icon> -->
+          <h2>{{item.nome}}</h2>
         <div>
-          <div class="tag" *ngFor="let tag of item.tags">
-                {{tag.nome}}
-                <!-- <span>{{tag.nome}}</span> -->
-            </div>
-              
+          <p><b>Quantidade</b>  <ion-badge color="secondary">{{item.quantidade}}</ion-badge></p>
+          <div>
+            <ion-badge *ngFor="let tag of item.tags" margin-right>
+                  {{tag.nome}}
+            </ion-badge>
+          </div>
         </div>
-      </div>
-    </ion-item>
-  </ion-list>
-
+      </ion-item>
+    </ion-list>
+  </ion-card-content>
+</ion-card>
   
   <div padding-left>
     <h3>Cursos</h3>
