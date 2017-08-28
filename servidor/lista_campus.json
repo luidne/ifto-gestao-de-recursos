@@ -2,8 +2,8 @@
 {
 "nome":"Campus Palmas",
 "cidade":"Palmas",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"resumo":"<p>Oficialmente inaugurado em abril de 2003 \u2013 na \u00E9poca, Escola T\u00E9cnica Federal de Palmas - o Campus Palmas tem capacidade para atender mais de 4.000 estudantes. A unidade ocupa uma \u00E1rea de 128.508,38m\u00B2 e \u00E9 refer\u00EAncia em ensino de qualidade na capital do Tocantins e regi\u00E3o. Oferta cursos nas modalidades: p\u00F3s-gradua\u00E7\u00E3o, superior, t\u00E9cnico integrado ao Ensino M\u00E9dio, t\u00E9cnico subsequente, t\u00E9cnico EAD e Proeja. Al\u00E9m disso, tamb\u00E9m s\u00E3o ofertados cursos de forma\u00E7\u00E3o inicial e continuada, voltados \u00E0 capacita\u00E7\u00E3o r\u00E1pida da comunidade para o mercado de trabalho. O Campus Palmas desenvolve ainda diversas atividades de extens\u00E3o e pesquisa, que contribuem para o desenvolvimento da sociedade em geral.<\/p>\r\n\r\n<p>Endere\u00E7o:&nbsp;AE 310 SUL, Avenida LO 05, s\/n Plano Diretor Sul, Palmas-TO,&nbsp;CEP:&nbsp; 77.021-090,&nbsp;Telefone:&nbsp;(63) 3236-4000, e-mail:&nbsp;\r\n <a href=\"mailto:palmas@ifto.edu.br\">palmas@ifto.edu.br<\/a>\r\n<\/p>",
+"imagemUrl":"http://www.redeto.com.br/images/noticia/20130618101632_23d02b25a7865cc4e1971ee56fdd9f65.jpg?KeepThis=true",
 "recursos":[
 {
 "nome":"Blocos destinados à área administrativa e consultórios médico-odontológicos;",
@@ -228,10 +228,10 @@
 ]
 },
 {
-"nome":"Campus Araguaina",
-"cidade":"Araguaina",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"nome":"Campus Araguaína",
+"cidade":"Araguaína",
+"resumo":"<p style=\"text-align: justify;\"><strong>O campus Araguaína</strong>&nbsp;tem papel importante na região, ofertando cursos de qualidade para atender a crescente demanda de profissionais. Com ênfase na oferta de cursos na área da saúde, o campus conta com estrutura de laboratórios de análises clínicas e anatomia, além de outros espaços que contribuem para o aprimoramento do conhecimento teórico aliado à prática. O campus também oferece cursos voltados para a área de informática, que, atualmente, é uma das principais demandas do mercado de trabalho. Além da recente ampliação nos ambientes administrativos e educacionais, com construção de mais 12 salas de aula, ambiente estudantil de vivência, dentre outros espaços importantes para a unidade.</p>",
+"imagemUrl":"http://araguaina.ifto.edu.br/wp-content/uploads/2013/11/ifto_araguaina.jpg",
 "recursos":[
 {
 "nome":"Auditório",
@@ -622,8 +622,8 @@
 {
 "nome":"Campus Gurupi",
 "cidade":"Gurupi",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"resumo":"Ipsum lorem",
+"imagemUrl":"http://trocar.url.png",
 "recursos":[
 {
 "nome":"Salas de Aula ",
@@ -774,8 +774,8 @@
 {
 "nome":"Campus Colinas",
 "cidade":"Colinas",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"resumo":"Ipsum lorem",
+"imagemUrl":"http://trocar.url.png",
 "recursos":[
 {
 "nome":"Laboratório de Informática",
@@ -832,8 +832,8 @@
 {
 "nome":"Campus Paraiso",
 "cidade":"Paraiso",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"resumo":"Ipsum lorem",
+"imagemUrl":"http://trocar.url.png",
 "recursos":[
 {
 "nome":"Salas de Aula ",
@@ -1194,8 +1194,8 @@
 {
 "nome":"Campus Araguatins",
 "cidade":"Araguatins",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"resumo":"Ipsum lorem",
+"imagemUrl":"http://trocar.url.png",
 "recursos":[
 {
 "nome":"Salas de Aula ",
@@ -1683,8 +1683,8 @@
 {
 "nome":"Campus Porto Nacional",
 "cidade":"Porto Nacional",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"resumo":"Ipsum lorem",
+"imagemUrl":"http://trocar.url.png",
 "recursos":[
 {
 "nome":"Gerência de Administração",
@@ -1914,8 +1914,8 @@
 {
 "nome":"Campus Dianopolis",
 "cidade":"Dianopolis",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"resumo":"Ipsum lorem",
+"imagemUrl":"http://trocar.url.png",
 "recursos":[
 {
 "nome":"Banheiro Masculino",
@@ -2105,8 +2105,8 @@
 {
 "nome":"Campus Formoso",
 "cidade":"Formoso",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"resumo":"Ipsum lorem",
+"imagemUrl":"http://trocar.url.png",
 "recursos":[
 {
 "nome":"Banheiro Feminino",
@@ -2247,8 +2247,8 @@
 {
 "nome":"Campus Pedro Afonso",
 "cidade":"Pedro Afonso",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"resumo":"Ipsum lorem",
+"imagemUrl":"http://trocar.url.png",
 "recursos":[
 {
 "nome":"Banheiro Masculino",
@@ -2311,8 +2311,8 @@
 {
 "nome":"Campus Lagoa",
 "cidade":"Lagoa",
-"resusmo":"Ipsum lorem",
-"ImagemUrl":"http://trocar.url.png",
+"resumo":"Ipsum lorem",
+"imagemUrl":"http://trocar.url.png",
 "recursos":[
 {
 "nome":"Laboratórios de Informática",
