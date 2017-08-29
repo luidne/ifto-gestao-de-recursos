@@ -12,7 +12,7 @@
     <ion-list no-lines>
       <button text-wrap menuClose ion-item *ngFor="let item of menus" (click)="openPage(item)">         
         <img class="img" style="width: 20px;"  src="{{item.icone}}">&nbsp;&nbsp;
-        <span style="font-size: .8em;">{{item.nome}}</span>
+        <span>{{item.nome}}</span>
       </button>
     </ion-list>
   </ion-content>
