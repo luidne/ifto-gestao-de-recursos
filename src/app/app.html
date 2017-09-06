@@ -7,7 +7,7 @@
 
   <ion-content>
     <div style="text-align: center; padding: 16px;">
-        <img class="img"  src="https://paraiso.ifto.edu.br/ava/main/img/session_default.png">
+        <img class="img"  src="./assets/img/topo_menu.png">
       </div>
     <ion-list no-lines>
       <button text-wrap menuClose ion-item *ngFor="let item of menus" (click)="openPage(item)">         
@@ -15,6 +15,9 @@
         <span>{{item.nome}}</span>
       </button>
     </ion-list>
+    <div *ngIf="menus == undefined" style="text-align: center; padding: 16px;">
+      <img style="width: 100px; margin: 0 auto;" src="./assets/img/loading.gif">
+    </div>
   </ion-content>
 
 </ion-menu>

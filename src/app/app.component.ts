@@ -17,16 +17,16 @@ export class MyApp {
   rootPage: any = HomePage;
 
   pages: Array<{title: string, component: any}>;
-  menus: any;
+  menus: any;  
 
   constructor(public platform: Platform, public statusBar: StatusBar, public splashScreen: SplashScreen, public http: Http) {
     this.initializeApp();
 
-    // used for an example of ngFor and navigation
-    this.pages = [
-      { title: 'Home', component: HomePage },
-      { title: 'List', component: ListPage }
-    ];
+    // // used for an example of ngFor and navigation
+    // this.pages = [
+    //   { title: 'Home', component: HomePage },
+    //   { title: 'List', component: ListPage }
+    // ];
 
     this.http.get('http://grupo6.centralus.cloudapp.azure.com:8181/lista_menu.json')
     // this.http.get('http://localhost:8181/lista_menu.json')
